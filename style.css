@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body {
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.card {
+    margin: 10px;
+}
+
+.info-carta{
+    display: none;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+.paginado {
+    display: flex;
+    justify-content: center;
+}
